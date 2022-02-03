@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Niharika Deokar
 - 👀 I’m interested in Android Develeopment
 - 🌱 I’m currently learning Flutter & MongoDB 
-- 📫 How to reach me niharikadeokar@gmail.com
+- 📫 How to reach me--nihadeokar@gmail.com
 
 <!---
 deokarniharika/deokarniharika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
