@@ -1,5 +1,5 @@
 👋 Hi, I’m Niharika Deokar <br />
-`👀 I’m interested in Android Develeopment` <br />
+`👀 I’m interested in Android Develeopment and Data Science` <br />
 `🌱 I’m currently learning Flutter & MongoDB ` <br />
 📫- nihadeokar@gmail.com<br />
 
