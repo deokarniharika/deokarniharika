@@ -1,6 +1,6 @@
 👋 Hi, I’m Niharika Deokar <br />
-`👀 I’m interested in Android Develeopment and Data Science` <br />
-`🌱 I’m currently learning Flutter & MongoDB ` <br />
+`👀 I’m interested in Machine Learning` <br />
+`🌱 I’m currently learning Neural Networks and NLP` <br />
 📫- nihadeokar@gmail.com<br />
 
 <!---
