@@ -2,7 +2,7 @@
 `:) I’m interested in Machine Learning` <br />
 `🌱 I’m currently learning Neural Networks and NLP` <br />
 
-![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=deokarniharika&show_icons=true&theme=dark)
+![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=deokarniharika&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deokarniharika&layout=compact)](https://github.com/deokarniharika/github-readme-stats)
 
