@@ -1,6 +1,6 @@
 👩🏻‍💻 About me <br />
-`:) I’m interested in Machine Learning` <br />
-`🌱 I’m currently learning Neural Networks and NLP` <br />
+`:) I’m interested in Data Science` <br />
+`🌱 I’m currently exploring working with CycleGAN` <br />
 
 ![Nihariks's GitHub stats](https://github-readme-stats.vercel.app/api?username=deokarniharika&show_icons=true&cache_seconds=86400&theme=default)
 
